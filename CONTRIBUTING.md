@@ -108,4 +108,4 @@ Open an [Issue](../../issues) with the `question` label, or reach out to the IEE
 
 ---
 
-*IEEE BUC Student Branch — British University in Cairo*
+*IEEE BUC Student Branch — Badr University in Cairo*
