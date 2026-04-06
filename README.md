@@ -93,19 +93,35 @@ cp -r projects/template projects/[YEAR]-expo/your-project-name
 
 ---
 
-## 🔧 Project Categories
+## 📚 Active Tracks
 
-Projects are tagged by discipline:
+### Current Tracks
 
-| Badge | Category |
-|-------|----------|
-| `🤖 Robotics` | Autonomous systems, mechanical arms, balancing robots |
-| `💡 Electronics` | Embedded systems, PCB design, power electronics |
-| `🧠 AI / ML` | Machine learning, computer vision, NLP |
-| `💻 Software` | Web apps, desktop tools, mobile applications |
-| `⚡ Energy` | Renewable energy, power systems |
-| `🏥 Healthcare` | Biomedical engineering, health-tech solutions |
-| `🌐 IoT` | Smart systems, sensor networks |
+| Day | Track |
+|-----|-------|
+| Saturday | 🚗 Automotive |
+| Sunday | ⚙️ C++ |
+| Monday | 🌐 Networking |
+| Tuesday | 📊 Data Science |
+| Wednesday | 🔩 SolidWorks |
+| Wednesday | 🤖 N8N Automation |
+| Thursday | 🔌 Arduino |
+| Friday | 🐧 Linux |
+
+### Future Tracks
+
+| # | Track |
+|---|-------|
+| 1 | 🤖 ROS |
+| 2 | 🧠 AI & ML |
+| 3 | 🍓 Raspberry Pi |
+| 4 | 🔐 Cybersecurity |
+| 5 | 👁️ Computer Vision |
+| 6 | 🔲 PCB Design |
+| 7 | 🌐 Web Development |
+| 8 | ⚙️ Embedded Systems |
+| 9 | 🗄️ SQL ||
+
 
 ---
 
@@ -134,6 +150,6 @@ Projects are tagged by discipline:
 <div align="center">
 
 *Built with dedication by IEEE BUC members.*
-**© IEEE BUC Student Branch — British University in Cairo**
+**© IEEE BUC Student Branch — Badr University in Cairo**
 
 </div>
