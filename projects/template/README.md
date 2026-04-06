@@ -138,4 +138,4 @@ MIT License — see [LICENSE](../../../LICENSE)
 
 ---
 
-*IEEE BUC Student Branch — British University in Cairo*
+*IEEE BUC Student Branch — Badr University in Cairo*
