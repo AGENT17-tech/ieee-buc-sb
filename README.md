@@ -6,7 +6,7 @@
 
 # ⚡ IEEE BUC — Exhibition Projects Repository
 
-**Official project archive of the IEEE Student Branch at the British University in Cairo**
+**Official project archive of the IEEE Student Branch at the Badrd University in Cairo**
 
 *Engineering innovation, presented every semester.*
 
