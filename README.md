@@ -126,7 +126,7 @@ Projects are tagged by discipline:
 - 🌐 **Website:** Coming soon
 - 📧 **Email:** ieee.buc@bue.edu.eg
 - 🔗 **LinkedIn:** [IEEE BUC Student Branch](https://linkedin.com](https://www.linkedin.com/company/ieee-buc-sb/))
-- 📸 **Instagram:** [@ieee.buc](https://www.instagram.com/ieee_buc_sb/)
+- 📸 **Instagram:** [@ieee_buc_sb](https://www.instagram.com/ieee_buc_sb/)
 
 ---
 
