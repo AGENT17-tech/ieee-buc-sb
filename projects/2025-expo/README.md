@@ -9,7 +9,7 @@
 | Detail | Info |
 |--------|------|
 | **Date** | TBD — Spring 2025 |
-| **Venue** | British University in Cairo |
+| **Venue** | Badr University in Cairo |
 | **Organized by** | IEEE BUC Student Branch |
 | **Total Projects** | TBD |
 
